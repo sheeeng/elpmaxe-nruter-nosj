@@ -1,0 +1,31 @@
+{
+  "name": "elpmaxe-nruter-nosj",
+  "version": "1.0.0",
+  "description": "NodeJS example project to return JSON objects.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "standard": "^8.0.0"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "posttest": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheeeng/elpmaxe-nruter-nosj.git"
+  },
+  "keywords": [
+    "json",
+    "example"
+  ],
+  "author": "Leonard Lee <leonardlee@outlook.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sheeeng/elpmaxe-nruter-nosj/issues"
+  },
+  "homepage": "https://github.com/sheeeng/elpmaxe-nruter-nosj#readme"
+}
